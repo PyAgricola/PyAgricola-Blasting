@@ -53,7 +53,7 @@ class Patlatma:
         self.hbtabansarjboyu = 0
         self.hosikilamaboyu = 0
         self.hckolonsarjboyu = 0
-        self.qtottoplamsarj = 0      # HATA DÜZELTİLDİ: '0' eksikti
+        self.qtottoplamsarj = 0      
         self.qozgulsarj = 0
 
 #-------------------------------Burden Üzerine-----------------------------
